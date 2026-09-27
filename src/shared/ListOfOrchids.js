@@ -8,7 +8,7 @@ export const OrchidsData = [
     origin: 'Thailand',
     color: 'Purple',
     rating: 4.8,
-    image: '/images/orchid-placeholder.svg',
+    image: '/images/animal-1.jpg',
     description: 'Dendrobium nổi bật với màu tím và form hoa cân đối.'
   },
   {
@@ -19,7 +19,7 @@ export const OrchidsData = [
     origin: 'Taiwan',
     color: 'Pink',
     rating: 4.6,
-    image: '/images/orchid-placeholder.svg',
+    image: '/images/animal-2.jpg',
     description: 'Giống mini nhỏ gọn, phù hợp không gian trưng bày.'
   },
   {
@@ -30,7 +30,7 @@ export const OrchidsData = [
     origin: 'Southeast Asia',
     color: 'White',
     rating: 4.7,
-    image: '/images/orchid-placeholder.svg',
+    image: '/images/animal-3.jpg',
     description: 'Hoa sáng màu, cánh thanh và có tính trang trí cao.'
   },
   {
@@ -41,7 +41,7 @@ export const OrchidsData = [
     origin: 'Hybrid',
     color: 'Yellow',
     rating: 4.2,
-    image: '/images/orchid-placeholder.svg',
+    image: '/images/animal-4.jpg',
     description: 'Giống lai dễ quan sát đặc điểm hình thái.'
   },
   {
@@ -52,7 +52,7 @@ export const OrchidsData = [
     origin: 'Taiwan',
     color: 'Violet',
     rating: 4.9,
-    image: '/images/orchid-placeholder.svg',
+    image: '/images/animal-5.jpg',
     description: 'Cattleya có hoa lớn, màu sắc nổi bật.'
   },
   {
@@ -63,7 +63,7 @@ export const OrchidsData = [
     origin: 'Hybrid',
     color: 'White',
     rating: 4.3,
-    image: '/images/orchid-placeholder.svg',
+    image: '/images/animal-6.jpg',
     description: 'Phalaenopsis trắng, phù hợp minh họa category khác.'
   },
   {
@@ -74,7 +74,7 @@ export const OrchidsData = [
     origin: 'Hybrid',
     color: 'Yellow',
     rating: 4.4,
-    image: '/images/orchid-placeholder.svg',
+    image: '/images/animal-7.jpg',
     description: 'Chùm hoa vàng nhỏ, tạo khác biệt khi lọc category.'
   },
   {
@@ -85,7 +85,7 @@ export const OrchidsData = [
     origin: 'Asia',
     color: 'Blue',
     rating: 4.8,
-    image: '/images/orchid-placeholder.svg',
+    image: '/images/animal-8.jpg',
     description: 'Vanda màu xanh tím, dùng để kiểm tra filter và detail.'
   }
 ];
